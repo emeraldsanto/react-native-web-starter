@@ -1,0 +1,5 @@
+
+export enum Route {
+	INTRODUCTION = "INTRODUCTION",
+	DESCRIPTION = "DESCRIPTION"
+}
